@@ -8,7 +8,6 @@ Passionné par le numérique, j'accompagne les entreprises, entrepreneurs et par
 
 ## À propos de moi
 
-Comptable
 
 Community Manager & Référent Digital
 
@@ -17,6 +16,8 @@ Créateur de contenus digitaux
 Utilisateur des outils d'Intelligence Artificielle
 
 Bénin
+
+Comptable
 
 ---
 
