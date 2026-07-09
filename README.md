@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis Noël N'KOUE
+# Bonjour, je suis Noël N'KOUE
 
 ## Community Manager | Référent Digital | Comptable
 
@@ -6,21 +6,21 @@ Passionné par le numérique, j'accompagne les entreprises, entrepreneurs et par
 
 ---
 
-## 🚀 À propos de moi
+## À propos de moi
 
-🎓 Comptable
+Comptable
 
-💻 Community Manager & Référent Digital
+Community Manager & Référent Digital
 
-🎨 Créateur de contenus digitaux
+Créateur de contenus digitaux
 
-🤖 Utilisateur des outils d'Intelligence Artificielle
+Utilisateur des outils d'Intelligence Artificielle
 
-📍 Bénin
+Bénin
 
 ---
 
-## 🛠️ Compétences
+## Compétences
 
 - HTML5
 - CSS3
@@ -28,6 +28,8 @@ Passionné par le numérique, j'accompagne les entreprises, entrepreneurs et par
 - Canva
 - Adobe Photoshop
 - Figma
+- Adobe illustrator
+- Montage vidéo
 - Microsoft Office
 - Community Management
 - Marketing Digital
@@ -38,9 +40,9 @@ Passionné par le numérique, j'accompagne les entreprises, entrepreneurs et par
 
 ---
 
-# 📂 Mes projets
+# Mes projets
 
-## 🌐 1. Portfolio Professionnel
+##  1. Portfolio Professionnel
 
 Présentation de mon parcours, de mes compétences et des services que je propose.
 
@@ -58,15 +60,9 @@ Présentation de mon parcours, de mes compétences et des services que je propos
 - Certificats
 - Contact
 
-🔗 Démo :
-https://TON_NOM_UTILISATEUR.github.io/Mon-premier-projet/
-
-📁 Code source :
-https://github.com/TON_NOM_UTILISATEUR/Mon-premier-projet
-
 ---
 
-## 📌 Projets à venir
+## Projets à venir
 
 - Site vitrine pour entreprise
 - Landing Page
@@ -77,15 +73,15 @@ https://github.com/TON_NOM_UTILISATEUR/Mon-premier-projet
 
 ---
 
-# 🎯 Mon objectif
+# Mon objectif
 
 Créer des solutions digitales simples, modernes et utiles pour aider les entreprises à améliorer leur communication et leur présence sur Internet.
 
 ---
 
-## 📫 Me contacter
+## Me contacter
 
-📧 Email :
+Email :
 **nkouenoel9@gmail.com**
 
 📱 WhatsApp :
@@ -93,5 +89,5 @@ Créer des solutions digitales simples, modernes et utiles pour aider les entrep
 
 ---
 
-⭐ Merci de visiter mon profil GitHub.
+Merci de visiter mon profil GitHub.
 N'hésitez pas à laisser une ⭐ sur mes projets.
