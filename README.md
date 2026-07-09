@@ -1,2 +1,97 @@
-# Noel
-Portfolio référent digital (Community Manager)
+# 👋 Bonjour, je suis Noël N'KOUE
+
+## Community Manager | Référent Digital | Comptable
+
+Passionné par le numérique, j'accompagne les entreprises, entrepreneurs et particuliers dans le développement de leur visibilité en ligne grâce à la création de contenus, au marketing digital et aux outils d'intelligence artificielle.
+
+---
+
+## 🚀 À propos de moi
+
+🎓 Comptable
+
+💻 Community Manager & Référent Digital
+
+🎨 Créateur de contenus digitaux
+
+🤖 Utilisateur des outils d'Intelligence Artificielle
+
+📍 Bénin
+
+---
+
+## 🛠️ Compétences
+
+- HTML5
+- CSS3
+- Git & GitHub
+- Canva
+- Adobe Photoshop
+- Figma
+- Microsoft Office
+- Community Management
+- Marketing Digital
+- SEO
+- Création de contenus
+- Intelligence Artificielle
+- Trello
+
+---
+
+# 📂 Mes projets
+
+## 🌐 1. Portfolio Professionnel
+
+Présentation de mon parcours, de mes compétences et des services que je propose.
+
+### Technologies
+
+- HTML5
+- CSS3
+
+### Fonctionnalités
+
+- Design responsive
+- Section Profil
+- Compétences
+- Services
+- Certificats
+- Contact
+
+🔗 Démo :
+https://TON_NOM_UTILISATEUR.github.io/Mon-premier-projet/
+
+📁 Code source :
+https://github.com/TON_NOM_UTILISATEUR/Mon-premier-projet
+
+---
+
+## 📌 Projets à venir
+
+- Site vitrine pour entreprise
+- Landing Page
+- Gestionnaire de tâches
+- Calculatrice JavaScript
+- Portfolio version React
+- Tableau de bord digital
+
+---
+
+# 🎯 Mon objectif
+
+Créer des solutions digitales simples, modernes et utiles pour aider les entreprises à améliorer leur communication et leur présence sur Internet.
+
+---
+
+## 📫 Me contacter
+
+📧 Email :
+**nkouenoel9@gmail.com**
+
+📱 WhatsApp :
+**+229 01 61 55 19 58**
+
+---
+
+⭐ Merci de visiter mon profil GitHub.
+N'hésitez pas à laisser une ⭐ sur mes projets.
