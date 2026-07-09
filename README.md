@@ -85,7 +85,7 @@ Email :
 **nkouenoel9@gmail.com**
 
 📱 WhatsApp :
-**+229 01 61 55 19 58**
+ <a href="https://wa.me/2290161551958">WhatsApp</a>
 
 ---
 
