@@ -82,7 +82,7 @@ Créer des solutions digitales simples, modernes et utiles pour aider les entrep
 ## Me contacter
 
 Email :
-**nkouenoel9@gmail.com**
+<a href="mailto:nkouenoel9@gmail.com">nkouenoel9@gmail.com</a>
 
 📱 WhatsApp :
  <a href="https://wa.me/2290161551958">WhatsApp</a>
